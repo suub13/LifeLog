@@ -198,7 +198,7 @@
           <option value="주말 숙면 시간">주말 숙면 시간</option>
         </select></td>
         <td>&nbsp;</td>
-      </tr>
+      
       <tr>
         <td><button style="width:140px"><label for="smartband data">스마트밴드 데이터</label></button></td>
         <td><select name="스마트밴드 데이터" id="smartband data">
